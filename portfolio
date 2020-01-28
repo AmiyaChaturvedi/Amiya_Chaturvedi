@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    height: 710px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+
+}
+img {
+  float:left;
+}
+h1 {
+  color:  #050a14;
+  text-align: center;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+
+.center {
+  display:block;
+  margin-left: 46%;
+}
+.center1 {
+  display:block;
+  margin-left: 5%;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 26%;
+  -ms-transform: translateX(60%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  transform: translateX(60%);
+}
+
+</style>
+</head>
+<body>
+<h1>My Portfolio</h1>
+<a href="https://github.com/AmiyaChaturvedi"><img src="C:\Users\Amiya Chaturvedi\Desktop\x\WhatsApp Image 2019-09-21 at 12.43.52 AM.jpeg" width="200" height="200" style="border-radius:50%" ></a>
+<div class="vertical-center">
+  <B><font size="20" face="nexa" float:right;>Amiya Chaturvedi</font></B>
+</div><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><font size="6" face="nexa">I'm good at:<BR>
+<ol type="a">
+     <li>C</li>
+     <li>Designing</li>
+     <li>Video Editing</li>
+</ol>
+</font></p>
+<br>
+<a href="https://www.instagram.com/the.vella.guy/?hl=en"><img class="center" src="C:\Users\Amiya Chaturvedi\Downloads\http___pluspng.com_img-png_instagram-png-instagram-icon-1600.png" width="30" height="30" ></a>
+<a href="https://www.facebook.com/amiyachaturvedi2871"><img img class="center1" src="C:\Users\Amiya Chaturvedi\Downloads\http___pluspng.com_img-png_facebook-logo-626.jpg" width="30" height="30" ></a>
+</body>
+</html>
